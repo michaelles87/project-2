@@ -45,8 +45,8 @@ The E-commerce Business Analytics Project analyzes transactional and operational
 
 ## 📊 Visual Features
 ### Example Screenshot
-![E-commerce Dashboard Screenshot](https://i.postimg.cc/YCZSvZM2/Screenshot-2024-12-19-at-1-54-59-PM.png)(https://i.postimg.cc/wx4YxJ6g/Screenshot-2024-12-19-at-1-56-26-PM.png)
-
+![E-commerce Dashboard Screenshot](https://i.postimg.cc/YCZSvZM2/Screenshot-2024-12-19-at-1-54-59-PM.png)
+![E-commerce Dashboard Screenshot](https://i.postimg.cc/wx4YxJ6g/Screenshot-2024-12-19-at-1-56-26-PM.png)
 ---
 
 ## 🧩 Conclusions
