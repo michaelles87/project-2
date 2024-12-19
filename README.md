@@ -3,7 +3,7 @@ This project focuses on identifying high-performing neighborhoods and property t
 
 # E-commerce Business Analytics Project
 
-[**View the Project Spreadsheet**](https://docs.google.com/spreadsheets/d/1kiJe_Y_17zl3aQ9SjFSDjCdLIFgm-Rb6PM2Awv8ssfY/edit?usp=sharing)
+[**View the Project Spreadsheet**](https://i.postimg.cc/YCZSvZM2/Screenshot-2024-12-19-at-1-54-59-PM.png)(https://i.postimg.cc/wx4YxJ6g/Screenshot-2024-12-19-at-1-56-26-PM.png)
 
 ---
 
